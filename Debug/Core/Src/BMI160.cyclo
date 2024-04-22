@@ -1,0 +1,9 @@
+../Core/Src/BMI160.c:9:9:BMI160_Init	1
+../Core/Src/BMI160.c:132:9:BMI160_ReadRegister	2
+../Core/Src/BMI160.c:152:9:BMI160_WriteRegister	1
+../Core/Src/BMI160.c:175:9:BMI160_ReadAccelerometer	1
+../Core/Src/BMI160.c:199:9:BMI160_ReadGyroscope	1
+../Core/Src/BMI160.c:228:9:BMI160_ReadAccelerometerDMA	2
+../Core/Src/BMI160.c:247:6:BMI160_ReadAccelerometerDMA_Complete	1
+../Core/Src/BMI160.c:264:9:BMI160_ReadGyroscopeDMA	2
+../Core/Src/BMI160.c:281:6:BMI160_ReadGyroscopeDMA_Complete	1
